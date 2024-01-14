@@ -9,5 +9,10 @@
 <img src="https://github.com/developer-onizuka/myCertification/blob/main/microsoft-certified-azure-fundamentals.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/microsoft-certified-azure-ai-fundamentals.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/microsoft-certified-azure-data-fundamentals.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/microsoft-certified-security-compliance-and-identity-fundamentals.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/microsoft-365-certified-fundamentals.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/microsoft-certified-power-platform-fundamentals.png" width="120">
 
 
+<img src="https://github.com/developer-onizuka/myCertification/blob/main/ProfessionalCloudArchitect.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/ProfessionalDataEngineer.png" width="120">
+
+<img src="https://github.com/developer-onizuka/myCertification/blob/main/AssociateCloudEngineer.png" width="120"><img src="https://github.com/developer-onizuka/myCertification/blob/main/CloudDigitalLeader.png
+" width="120">
+
 
 
