@@ -1,4 +1,4 @@
 # myCertification
 
 
-><img src="https://github.com/developer-onizuka/MachineLearningOnAWS/blob/main/aws-certified-security-specialty.png" width="80">
+<img src="https://github.com/developer-onizuka/myCertification/blob/main/aws-certified-security-specialty.png" width="160">
