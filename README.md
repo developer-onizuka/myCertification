@@ -15,17 +15,17 @@
 
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
-| Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 | ++++ |
-| Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 | +++ |
+| Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 | +++++ |
+| Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 | ++++ |
 | SysOps Administrator - Associate | 2023/03/04 | 2027/03/10 | 872 | ++++ |
-| Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 | +++ |
+| Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 | ++ |
 | Machine Learning - Specialty | 2023/10/14 | 2026/10/14 | 842 | ++ |
 | Database - Specialty | 2024/01/04 | 2027/01/04 | 830 | ++ |
 | Security - Specialty | 2024/01/13 | 2027/01/13 | 775 | +++ |
-| Advanced Networking - Specialty	| 2024/02/23 | 2027/02/23 | 799 | +++++ |
+| Advanced Networking - Specialty	| 2024/02/23 | 2027/02/23 | 799 | ++++ |
 | SAP on AWS - Specialty | 2024/03/02| 2027/03/02 | 1000 | + |
 | DevOps Engineer - Professional | 2024/03/10 | 2027/03/10 | 852 | +++ |
 | Cloud Practitioner | 2024/03/11 | 2027/03/31 | 838 | ++ |
-| Solutions Architect - Professional	| 2024/03/31 | 2027/03/31 | 858 | +++ |
+| Solutions Architect - Professional	| 2024/03/31 | 2027/03/31 | 858 | ++ |
 
 * : Difficulty means the relative difference between real ability of mine at that moment and the exam.
