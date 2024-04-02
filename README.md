@@ -16,7 +16,7 @@
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
 | Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 | +++++ |
-| Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 | ++++ |
+| Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 | +++++ |
 | SysOps Administrator - Associate | 2023/03/04 | 2027/03/10 | 872 | ++++ |
 | Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 | ++ |
 | Machine Learning - Specialty | 2023/10/14 | 2026/10/14 | 842 | ++ |
@@ -28,7 +28,7 @@
 | Cloud Practitioner | 2024/03/11 | 2027/03/31 | 838 | ++ |
 | Solutions Architect - Professional	| 2024/03/31 | 2027/03/31 | 858 | ++ |
 
-* : Means the relative difference between real ability of mine at that moment and the exam.
+* : Means the relative difference between real ability of mine at that moment and a mount of studies and knowlegdge required by the exam.
 
 # 2. Azure
 
