@@ -13,8 +13,8 @@
 
 
 
-| --- | --- | --- |
 | Name | Date | Score |
+| --- | --- | --- |
 | Solutions Architect - Professional | 21/10/05 | 787 |
 | Developer - Associate	| 2022/10/14 | 824 |
 | SysOps Administrator - Associate | 23/03/04 | 872 |
