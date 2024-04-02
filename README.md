@@ -18,7 +18,7 @@
 | Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 | ++++ |
 | Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 | +++++ |
 | SysOps Administrator - Associate | 2023/03/04 | 2027/03/10 | 872 | ++++ |
-| Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 | ++ |
+| Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 | +++ |
 | Machine Learning - Specialty | 2023/10/14 | 2026/10/14 | 842 | ++ |
 | Database - Specialty | 2024/01/04 | 2027/01/04 | 830 | ++ |
 | Security - Specialty | 2024/01/13 | 2027/01/13 | 775 | +++ |
