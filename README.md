@@ -15,15 +15,15 @@
 
 | Name | Date | Score |
 | --- | --- | --- |
-| Solutions Architect - Professional | 21/10/05 | 787 |
+| Solutions Architect - Professional | 2021/10/05 | 787 |
 | Developer - Associate	| 2022/10/14 | 824 |
-| SysOps Administrator - Associate | 23/03/04 | 872 |
-| Data Analytics - Specialty | 23/06/10 | 806 |
-| Machine Learning - Specialty | 23/10/14 | 842 |
-| Database - Specialty | 24/01/04 | 830 |
-| Security - Specialty | 24/01/13 | 775 |
+| SysOps Administrator - Associate | 2023/03/04 | 872 |
+| Data Analytics - Specialty | 2023/06/10 | 806 |
+| Machine Learning - Specialty | 2023/10/14 | 842 |
+| Database - Specialty | 2024/01/04 | 830 |
+| Security - Specialty | 2024/01/13 | 775 |
 | Advanced Networking - Specialty	| 2024/02/23 | 799 |
-| SAP on AWS - Specialty | 24/03/02| 1000 |
-| DevOps Engineer - Professional | 24/03/10 | 852 |
-| Cloud Practitioner | 24/03/11 | 838 |
-| Solutions Architect - Associate	| 24/03/31 | 858 |
+| SAP on AWS - Specialty | 2024/03/02| 1000 |
+| DevOps Engineer - Professional | 2024/03/10 | 852 |
+| Cloud Practitioner | 2024/03/11 | 838 |
+| Solutions Architect - Associate	| 2024/03/31 | 858 |
