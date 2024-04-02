@@ -13,7 +13,7 @@
 
 
 
-| Name | Exam Date | Expired date | Score |
+| Name of Exam | Exam Date | Expired date | Score |
 | --- | --- | --- | --- |
 | Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 |
 | Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 |
