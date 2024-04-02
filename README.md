@@ -15,7 +15,7 @@
 
 | Name | Date | Score |
 | --- | --- | --- |
-| Solutions Architect - Professional | 2021/10/05 | 787 |
+| Solutions Architect - Associate | 2021/10/05 | 787 |
 | Developer - Associate	| 2022/10/14 | 824 |
 | SysOps Administrator - Associate | 2023/03/04 | 872 |
 | Data Analytics - Specialty | 2023/06/10 | 806 |
@@ -26,4 +26,4 @@
 | SAP on AWS - Specialty | 2024/03/02| 1000 |
 | DevOps Engineer - Professional | 2024/03/10 | 852 |
 | Cloud Practitioner | 2024/03/11 | 838 |
-| Solutions Architect - Associate	| 2024/03/31 | 858 |
+| Solutions Architect - Professional	| 2024/03/31 | 858 |
