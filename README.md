@@ -28,4 +28,4 @@
 | Cloud Practitioner | 2024/03/11 | 2027/03/31 | 838 | ++ |
 | Solutions Architect - Professional	| 2024/03/31 | 2027/03/31 | 858 | ++ |
 
-* : This difficulty means the relative difference between real ability of mine at that moment and the exam.
+* : Means the relative difference between real ability of mine at that moment and the exam.
