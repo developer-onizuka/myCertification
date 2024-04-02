@@ -15,7 +15,7 @@
 # 1. AWS
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
-| Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 | +++++ |
+| Solutions Architect - Associate | 2021/10/05 | 2027/03/31 | 787 | ++++ |
 | Developer - Associate	| 2022/10/14 | 2027/03/10 | 824 | +++++ |
 | SysOps Administrator - Associate | 2023/03/04 | 2027/03/10 | 872 | ++++ |
 | Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 | ++ |
