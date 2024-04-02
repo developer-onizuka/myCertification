@@ -21,7 +21,7 @@
 | Data Analytics - Specialty | 2023/06/10 | 2026/06/10 | 806 |
 | Machine Learning - Specialty | 2023/10/14 | 2026/10/14 | 842 |
 | Database - Specialty | 2024/01/04 | 2026/01/04 | 830 |
-| Security - Specialty | 2024/01/13 | 2026/01/13 | 775 |
+| Security - Specialty | 2024/01/13 | 2027/01/13 | 775 |
 | Advanced Networking - Specialty	| 2024/02/23 | 2027/02/23 | 799 |
 | SAP on AWS - Specialty | 2024/03/02| 2027/03/02 | 1000 |
 | DevOps Engineer - Professional | 2024/03/10 | 2027/03/10 | 852 |
