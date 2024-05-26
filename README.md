@@ -35,12 +35,12 @@
 # 1. AWS
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
-| Cloud Digital Leader | 2022/11/25 | 2025/11/25 | 787 | ++++ |
-| Associate Cloud Engineer | 2022/12/12 | 2025/12/12 | 824 | +++++ |
-| Professional Cloud Architect | 2023/04/24 | 2025/04/24 | 824 | +++++ |
-| Professional Data Engineer | 2023/05/02 | 2025/05/02 | 824 | +++++ |
-| Professional Cloud DevOps Engineer | 2024/04/21 | 2026/04/21 | 824 | +++++ |
-| Professional Cloud Developer | 2024/05/12 | 2026/05/12 | - | +++ |
+| Cloud Digital Leader | 2022/11/25 | 2025/11/25 | - | + |
+| Associate Cloud Engineer | 2022/12/12 | 2025/12/12 | - | ++ |
+| Professional Cloud Architect | 2023/04/24 | 2025/04/24 | - | ++++ |
+| Professional Data Engineer | 2023/05/02 | 2025/05/02 | - | ++++ |
+| Professional Cloud DevOps Engineer | 2024/04/21 | 2026/04/21 | - | ++ |
+| Professional Cloud Developer | 2024/05/12 | 2026/05/12 | - | ++ |
 | Professional Cloud Security Engineer | - | - | - | - |
 | Professional Cloud Network Engineer | - | - | - | - |
 | Professional Google Workspace Administrator | - | - | - | - |
