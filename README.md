@@ -32,7 +32,6 @@
 # 2. Azure
 
 # 3. Google Cloud
-# 1. AWS
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
 | Cloud Digital Leader | 2022/11/25 | 2025/11/25 | - | + |
