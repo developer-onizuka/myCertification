@@ -27,7 +27,7 @@
 | Cloud Practitioner | 2024/03/11 | 2027/03/31 | 838 | + |
 | Solutions Architect - Professional	| 2024/03/31 | 2027/03/31 | 858 | +++ |
 
-- * : relative differences between real ability of mine at that moment and a mount of studies and knowledge required by the exam
+ * : relative differences between real ability of mine at that moment and a mount of studies and knowledge required by the exam
 
 # 2. Azure
 
