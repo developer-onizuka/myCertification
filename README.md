@@ -27,7 +27,8 @@
 | SAP on AWS - Specialty | 2024/03/02| 2027/03/02 | 1000 | ++ |
 | DevOps Engineer - Professional | 2024/03/10 | 2027/03/10 | 852 | ++ |
 | Cloud Practitioner | 2024/03/11 | 2027/03/31 | 838 | + |
-| Solutions Architect - Professional	| 2024/03/31 | 2027/03/31 | 858 | +++ |
+| Solutions Architect - Professional | 2024/03/31 | 2027/03/31 | 858 | +++ |
+| Data Engineer - Associate | 2024/08/03 | 2027/08/03 | 721 | +++ |
 
 '* : relative differences between real ability of mine at that moment and a mount of studies and knowledge required by the exam
 
