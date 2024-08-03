@@ -26,7 +26,7 @@
 | Advanced Networking - Specialty	| 2024/02/23 | 2027/02/23 | 799 | ++++ |
 | SAP on AWS - Specialty | 2024/03/02| 2027/03/02 | 1000 | ++ |
 | DevOps Engineer - Professional | 2024/03/10 | 2027/03/10 | 852 | ++ |
-| Cloud Practitioner | 2024/03/11 | 2027/03/31 | 838 | + |
+| Cloud Practitioner | 2024/03/11 | 2027/08/03 | 838 | + |
 | Solutions Architect - Professional | 2024/03/31 | 2027/03/31 | 858 | +++ |
 | Data Engineer - Associate | 2024/08/03 | 2027/08/03 | 721 | +++ |
 
