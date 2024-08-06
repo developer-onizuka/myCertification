@@ -35,25 +35,25 @@
 # 2. Azure
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
-| Microsoft Certified: Azure Fundamentals | 2020/07/07 | - | - | + |
-| Microsoft Certified: Azure Data Fundamentals | 2022/11/16 | - | - | + |
-| Microsoft Certified: Security, Compliance, and Identity Fundamentals | 2022/11/18 | - | - | + |
-| Microsoft Certified: Azure AI Fundamentals | 2022/12/09 | - | - | + |
-| Microsoft Certified: Power Platform Fundamentals | 2023/01/23 | - | - | + |
+| Azure Fundamentals | 2020/07/07 | - | - | + |
+| Azure Administrator Associate | 2022/03/11 | - | - | + |
+| Azure Developer Associate | 2022/05/13 | - | - | + |
+| DevOps Engineer Expert | 2022/07/29 | - | - | + |
+| Azure Solutions Architect Expert | 2022/08/20 | - | - | + |
+| Azure Security Engineer Associate | 2022/11/04 | - | - | + |
+| Azure Data Fundamentals | 2022/11/16 | - | - | + |
+| Security, Compliance, and Identity Fundamentals | 2022/11/18 | - | - | + |
+| Identity and Access Administrator Associate | 2022/11/28 | - | - | + |
+| Azure AI Fundamentals | 2022/12/09 | - | - | + |
+| Cybersecurity Architect Expert | 2023/01/04 | - | - | + |
+| Security Operations Analyst Associate | 2023/01/20 | - | - | + |
+| Power Platform Fundamentals | 2023/01/23 | - | - | + |
+| Azure Data Engineer Associate | 2023/03/25 | - | - | + |
+| Azure AI Engineer Associate | 2023/06/25 | - | - | + |
+| Azure Data Scientist Associate | 2023/11/08 | - | - | + |
+| Azure Enterprise Data Analyst Associate | 2023/09/22 | - | - | + |
+| Azure Database Administrator Associate | 2023/12/13 | - | - | + |
 | Microsoft 365 Certified: Fundamentals | 2023/01/24 | - | - | + |
-| Microsoft Certified: Azure Data Scientist Associate | 2023/11/08 | - | - | + |
-| Microsoft Certified: Azure Security Engineer Associate | 2022/11/04 | - | - | + |
-| Microsoft Certified: Azure Enterprise Data Analyst Associate | 2023/09/22 | - | - | + |
-| Microsoft Certified: Azure Solutions Architect Expert | 2022/08/20 | - | - | + |
-| Microsoft Certified: DevOps Engineer Expert | 2022/07/29 | - | - | + |
-| Microsoft Certified: Azure AI Engineer Associate | 2023/06/25 | - | - | + |
-| Microsoft Certified: Azure Developer Associate | 2022/05/13 | - | - | + |
-| Microsoft Certified: Azure Data Engineer Associate | 2023/03/25 | - | - | + |
-| Microsoft Certified: Azure Data Engineer Associate | 2023/03/25 | - | - | + |
-| Microsoft Certified: Azure Administrator Associate | 2022/03/11 | - | - | + |
-| Microsoft Certified: Security Operations Analyst Associate | 2023/01/20 | - | - | + |
-| Microsoft Certified: Cybersecurity Architect Expert | 2023/01/04 | - | - | + |
-| Microsoft Certified: Azure Database Administrator Associate | 2023/12/13 | - | - | + |
 
 # 3. Google Cloud
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
