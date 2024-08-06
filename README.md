@@ -53,7 +53,7 @@
 | AI-102 | Azure AI Engineer Associate | 2023/06/25 | 2025/06/25 | 823 | +++ |
 | DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | 2025/09/22 | 835 | +++ |
 | DP-100 | Azure Data Scientist Associate | 2023/11/07 | 2025/11/07 | 832 | +++ |
-| DP-300 | Azure Database Administrator Associate | 2024/12/13 | 20xx/12/13 | 729 | +++ |
+| DP-300 | Azure Database Administrator Associate | 2023/12/13 | 2024/12/13 | 729 | +++ |
 
 # 3. Google Cloud
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
