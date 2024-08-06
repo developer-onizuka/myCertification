@@ -36,24 +36,24 @@
 | | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- | --- |
 | AZ-900 | Azure Fundamentals | 2020/07/07 | - | 940 | + |
-| AZ-104 | Azure Administrator Associate | 2022/03/11 | - | 807 | + |
-| AZ-204 | Azure Developer Associate | 2022/05/13 | - | 834 | + |
-| AZ-400 | DevOps Engineer Expert | 2022/07/29 | - | 700 | + |
-| AZ-305 | Azure Solutions Architect Expert | 2022/08/20 | - | 764 | + |
-| AZ-500 | Azure Security Engineer Associate | 2022/11/04 | - | 837 | + |
+| AZ-104 | Azure Administrator Associate | 2022/03/11 | every other year | 807 | +++ |
+| AZ-204 | Azure Developer Associate | 2022/05/13 | every other year | 834 | ++++ |
+| AZ-400 | DevOps Engineer Expert | 2022/07/29 | every other year | 700 | +++++ |
+| AZ-305 | Azure Solutions Architect Expert | 2022/08/20 | every other year | 764 | ++ |
+| AZ-500 | Azure Security Engineer Associate | 2022/11/04 | every other year | 837 | +++ |
 | DP-900 | Azure Data Fundamentals | 2022/11/16 | - | 916 | + |
 | SC-900 | Security, Compliance, and Identity Fundamentals | 2022/11/18 | - | 928 | + |
-| SC-300 | Identity and Access Administrator Associate | 2022/11/28 | - | 762 | + |
-| AI-900 | Azure AI Fundamentals | 2022/12/09 | - | 766 | + |
-| SC-100 | Cybersecurity Architect Expert | 2023/01/04 | - | 868 | + |
-| SC-200 | Security Operations Analyst Associate | 2023/01/20 | - | 800 | + |
-| PL-900 | Power Platform Fundamentals | 2023/01/23 | - | 746 | + |
-| DP-203 | Azure Data Engineer Associate | 2023/03/25 | - | 813 | + |
-| AI-102 | Azure AI Engineer Associate | 2023/06/25 | - | 823 | + |
-| DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | - | 835 | + |
-| DP-100 | Azure Data Scientist Associate | 2023/11/07 | - | 832 | + |
-| DP-300 | Azure Database Administrator Associate | 2023/12/13 | - | 729 | + |
-| MS-900 | Microsoft 365 Fundamentals | 2023/01/24 | - | 771 | + |
+| SC-300 | Identity and Access Administrator Associate | 2022/11/28 | every other year | 762 | +++ |
+| AI-900 | Azure AI Fundamentals | 2022/12/09 | - | 766 | ++ |
+| SC-100 | Cybersecurity Architect Expert | 2023/01/04 | every other year | 868 | ++++ |
+| SC-200 | Security Operations Analyst Associate | 2023/01/20 | every other year | 800 | +++ |
+| PL-900 | Power Platform Fundamentals | 2023/01/23 | - | 746 | ++ |
+| MS-900 | Microsoft 365 Fundamentals | 2023/01/24 | - | 771 | ++ |
+| DP-203 | Azure Data Engineer Associate | 2023/03/25 | every other year | 813 | ++++ |
+| AI-102 | Azure AI Engineer Associate | 2023/06/25 | every other year | 823 | +++ |
+| DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | every other year | 835 | +++ |
+| DP-100 | Azure Data Scientist Associate | 2023/11/07 | every other year | 832 | +++ |
+| DP-300 | Azure Database Administrator Associate | 2023/12/13 | every other year | 729 | +++ |
 
 # 3. Google Cloud
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
