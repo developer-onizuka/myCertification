@@ -66,6 +66,6 @@
 | Professional Cloud Developer | 2024/05/12 | 2026/05/12 | - | ++ |
 | Professional Cloud Security Engineer | 2024/06/09 | 2026/06/09 | - | +++ |
 | Professional Cloud Network Engineer | 2024/07/07 | 2026/07/07 | - | ++++ |
+| Professional Machine Learning Engineer | 2024/09/15 | 2026/09/15 | - | +++++ |
 | Professional Google Workspace Administrator | - | - | - | - |
-| Professional Machine Learning Engineer | - | - | - | - |
 | Professional Cloud Database Engineer | - | - | - | - |
