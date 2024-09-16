@@ -43,7 +43,7 @@
 | AZ-500 | Azure Security Engineer Associate | 2022/11/04 | 2025/11/04 | 837 | +++ |
 | DP-900 | Azure Data Fundamentals | 2022/11/16 | - | 916 | + |
 | SC-900 | Security, Compliance, and Identity Fundamentals | 2022/11/18 | - | 928 | + |
-| SC-300 | Identity and Access Administrator Associate | 2022/11/28 | 2024/11/28 | 762 | +++ |
+| SC-300 | Identity and Access Administrator Associate | 2022/11/28 | 2025/11/28 | 762 | +++ |
 | AI-900 | Azure AI Fundamentals | 2022/12/09 | - | 766 | ++ |
 | SC-100 | Cybersecurity Architect Expert | 2023/01/04 | 2025/01/04 | 868 | ++++ |
 | SC-200 | Security Operations Analyst Associate | 2023/01/20 | 2025/01/20 | 800 | +++ |
