@@ -68,4 +68,4 @@
 | Professional Cloud Network Engineer | 2024/07/07 | 2026/07/07 | - | ++++ |
 | Professional Machine Learning Engineer | 2024/09/15 | 2026/09/15 | - | +++++ |
 | Professional Google Workspace Administrator | 2024/09/23 | 2026/09/23 | - | ++++ |
-| Professional Cloud Database Engineer | - | - | - | - |
+| Professional Cloud Database Engineer | 2024/10/06 | 2026/10/06 | - | +++ |
