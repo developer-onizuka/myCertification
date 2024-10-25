@@ -42,7 +42,7 @@
 | SC-900 | Security, Compliance, and Identity Fundamentals | 2022/11/18 | - | 928 | + |
 | SC-300 | Identity and Access Administrator Associate | 2022/11/28 | 2025/11/28 | 762 | +++ |
 | AI-900 | Azure AI Fundamentals | 2022/12/09 | - | 766 | ++ |
-| SC-100 | Cybersecurity Architect Expert | 2023/01/04 | 2025/01/04 | 868 | ++++ |
+| SC-100 | Cybersecurity Architect Expert | 2023/01/04 | 2026/01/04 | 868 | ++++ |
 | SC-200 | Security Operations Analyst Associate | 2023/01/20 | 2025/01/20 | 800 | +++ |
 | PL-900 | Power Platform Fundamentals | 2023/01/23 | - | 746 | ++ |
 | MS-900 | Microsoft 365 Fundamentals | 2023/01/24 | - | 771 | ++ |
