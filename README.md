@@ -33,7 +33,7 @@
 | | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- | --- |
 | AZ-900 | Azure Fundamentals | 2020/07/07 | - | 940 | + |
-| AZ-104 | Azure Administrator Associate | 2022/03/11 | 2025/03/11 | 807 | +++ |
+| AZ-104 | Azure Administrator Associate | 2022/03/11 | 2026/03/11 | 807 | +++ |
 | AZ-204 | Azure Developer Associate | 2022/05/13 | 2025/05/13 | 834 | ++++ |
 | AZ-400 | DevOps Engineer Expert | 2022/07/29 | 2025/07/29 | 700 | +++++ |
 | AZ-305 | Azure Solutions Architect Expert | 2022/08/20 | 2025/08/20 | 764 | ++ |
@@ -43,7 +43,7 @@
 | SC-300 | Identity and Access Administrator Associate | 2022/11/28 | 2025/11/28 | 762 | +++ |
 | AI-900 | Azure AI Fundamentals | 2022/12/09 | - | 766 | ++ |
 | SC-100 | Cybersecurity Architect Expert | 2023/01/04 | 2026/01/04 | 868 | ++++ |
-| SC-200 | Security Operations Analyst Associate | 2023/01/20 | 2025/01/20 | 800 | +++ |
+| SC-200 | Security Operations Analyst Associate | 2023/01/20 | 2026/01/20 | 800 | +++ |
 | PL-900 | Power Platform Fundamentals | 2023/01/23 | - | 746 | ++ |
 | MS-900 | Microsoft 365 Fundamentals | 2023/01/24 | - | 771 | ++ |
 | DP-203 | Azure Data Engineer Associate | 2023/03/25 | 2025/03/25 | 813 | ++++ |
