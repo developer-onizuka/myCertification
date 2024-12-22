@@ -51,6 +51,7 @@
 | DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | 2025/09/22 | 835 | +++ |
 | DP-100 | Azure Data Scientist Associate | 2023/11/07 | 2025/11/07 | 832 | +++ |
 | DP-300 | Azure Database Administrator Associate | 2023/12/13 | 2025/12/13 | 729 | +++ |
+| AZ-700 | Azure Network Engineer Associate | 2024/12/22 | 2025/12/23 | 728 | +++++ |
 
 # 3. Google Cloud
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
