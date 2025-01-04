@@ -27,6 +27,7 @@
 | Solutions Architect - Professional | 2024/03/31 | 2027/03/31 | 858 | +++ |
 | Data Engineer - Associate | 2024/08/03 | 2027/08/03 | 721 | +++ |
 | AI Practitioner | 2024/12/29 | 2027/12/29 | 911 | + |
+| Machine Learning Engineer - Associate | 2025/01/04 | 2028/01/04 | 855 | ++ |
 
 '* : relative differences between real ability of mine at that moment and a mount of studies and knowledge required by the exam
 
