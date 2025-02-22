@@ -49,7 +49,7 @@
 | PL-900 | Power Platform Fundamentals | 2023/01/23 | - | 746 | ++ |
 | MS-900 | Microsoft 365 Fundamentals | 2023/01/24 | - | 771 | ++ |
 | DP-203 | Azure Data Engineer Associate | 2023/03/25 | 2026/03/25 | 813 | ++++ |
-| AI-102 | Azure AI Engineer Associate | 2023/06/25 | 2025/06/25 | 823 | +++ |
+| AI-102 | Azure AI Engineer Associate | 2023/06/25 | 2026/06/25 | 823 | +++ |
 | DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | 2025/09/22 | 835 | +++ |
 | DP-100 | Azure Data Scientist Associate | 2023/11/07 | 2025/11/07 | 832 | +++ |
 | DP-300 | Azure Database Administrator Associate | 2023/12/13 | 2025/12/13 | 729 | +++ |
