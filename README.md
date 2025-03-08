@@ -74,4 +74,4 @@
 # 4. GitHub
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- |
-| GitHub Foundation | 2025/3/6 | 2028/3/6 | 80 % | ++ |
+| GitHub Foundations | 2025/3/6 | 2028/3/6 | 80 % | ++ |
