@@ -70,3 +70,8 @@
 | Professional Machine Learning Engineer | 2024/09/15 | 2026/09/15 | - | +++++ |
 | Professional Google Workspace Administrator | 2024/09/23 | 2026/09/23 | - | ++++ |
 | Professional Cloud Database Engineer | 2024/10/06 | 2026/10/06 | - | +++ |
+
+# 4. GitHub
+| Name of Exam | Exam Date | Expired date | Score | Difficulty * |
+| --- | --- | --- | --- | --- |
+| GitHub Foundation | 2025/3/6 | 2028/3/6 | 80 % | ++ |
