@@ -70,6 +70,8 @@
 | Professional Machine Learning Engineer | 2024/09/15 | 2026/09/15 | - | +++++ |
 | Professional Google Workspace Administrator | 2024/09/23 | 2026/09/23 | - | ++++ |
 | Professional Cloud Database Engineer | 2024/10/06 | 2026/10/06 | - | +++ |
+| Associate Data Practitioner | 2025/03/17 | 2028/03/17 | - | + |
+
 
 # 4. GitHub
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
