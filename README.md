@@ -61,7 +61,7 @@
 | --- | --- | --- | --- | --- |
 | Cloud Digital Leader | 2022/11/25 | 2025/11/25 | - | + |
 | Associate Cloud Engineer | 2022/12/12 | 2025/12/12 | - | ++ |
-| Professional Cloud Architect | 2023/04/24 | 2025/04/24 | - | ++++ |
+| Professional Cloud Architect | 2023/04/24 | 2027/04/11 | - | ++++ |
 | Professional Data Engineer | 2023/05/02 | 2025/05/02 | - | ++++ |
 | Professional Cloud DevOps Engineer | 2024/04/21 | 2026/04/21 | - | ++ |
 | Professional Cloud Developer | 2024/05/12 | 2026/05/12 | - | ++ |
