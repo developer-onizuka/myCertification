@@ -71,6 +71,7 @@
 | Professional Google Workspace Administrator | 2024/09/23 | 2026/09/23 | - | ++++ |
 | Professional Cloud Database Engineer | 2024/10/06 | 2026/10/06 | - | +++ |
 | Associate Data Practitioner | 2025/03/17 | 2028/03/17 | - | + |
+| Associate Google Workspace Administrator | 2025/06/20 | 2028/06/20 | - | ++ |
 
 
 # 4. GitHub
