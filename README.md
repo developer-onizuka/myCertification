@@ -72,6 +72,7 @@
 | Professional Cloud Database Engineer | 2024/10/06 | 2026/10/06 | - | +++ |
 | Associate Data Practitioner | 2025/03/17 | 2028/03/17 | - | + |
 | Associate Google Workspace Administrator | 2025/06/20 | 2028/06/20 | - | ++ |
+| Google Cloud Generative AI Leader | 2025/07/04 | 2028/07/04 | - | + |
 
 
 # 4. GitHub
