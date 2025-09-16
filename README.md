@@ -40,10 +40,10 @@
 | AZ-204 | Azure Developer Associate | 2022/05/13 | 2026/05/13 | 834 | ++++ |
 | AZ-400 | DevOps Engineer Expert | 2022/07/29 | 2026/07/29 | 700 | +++++ |
 | AZ-305 | Azure Solutions Architect Expert | 2022/08/20 | 2026/08/20 | 764 | ++ |
-| AZ-500 | Azure Security Engineer Associate | 2022/11/04 | 2025/11/04 | 837 | +++ |
+| AZ-500 | Azure Security Engineer Associate | 2022/11/04 | 2026/11/04 | 837 | +++ |
 | DP-900 | Azure Data Fundamentals | 2022/11/16 | - | 916 | + |
 | SC-900 | Security, Compliance, and Identity Fundamentals | 2022/11/18 | - | 928 | + |
-| SC-300 | Identity and Access Administrator Associate | 2022/11/28 | 2025/11/28 | 762 | +++ |
+| SC-300 | Identity and Access Administrator Associate | 2022/11/28 | 2026/11/28 | 762 | +++ |
 | AI-900 | Azure AI Fundamentals | 2022/12/09 | - | 766 | ++ |
 | SC-100 | Cybersecurity Architect Expert | 2023/01/04 | 2026/01/04 | 868 | ++++ |
 | SC-200 | Security Operations Analyst Associate | 2023/01/20 | 2026/01/20 | 800 | +++ |
@@ -52,7 +52,7 @@
 | DP-203 | Azure Data Engineer Associate | 2023/03/25 | 2026/03/25 | 813 | ++++ |
 | AI-102 | Azure AI Engineer Associate | 2023/06/25 | 2026/06/25 | 823 | +++ |
 | DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | 2025/09/22 | 835 | +++ |
-| DP-100 | Azure Data Scientist Associate | 2023/11/07 | 2025/11/07 | 832 | +++ |
+| DP-100 | Azure Data Scientist Associate | 2023/11/07 | 2026/11/07 | 832 | +++ |
 | DP-300 | Azure Database Administrator Associate | 2023/12/13 | 2025/12/13 | 729 | +++ |
 | AZ-700 | Azure Network Engineer Associate | 2024/12/22 | 2025/12/22 | 728 | +++++ |
 
