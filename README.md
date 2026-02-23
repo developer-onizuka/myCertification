@@ -36,7 +36,7 @@
 | | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
 | --- | --- | --- | --- | --- | --- |
 | AZ-900 | Azure Fundamentals | 2020/07/07 | - | 940 | + |
-| AZ-104 | Azure Administrator Associate | 2022/03/11 | 2026/03/11 | 807 | +++ |
+| AZ-104 | Azure Administrator Associate | 2022/03/11 | 2027/03/11 | 807 | +++ |
 | AZ-204 | Azure Developer Associate | 2022/05/13 | 2026/05/13 | 834 | ++++ |
 | AZ-400 | DevOps Engineer Expert | 2022/07/29 | 2026/07/29 | 700 | +++++ |
 | AZ-305 | Azure Solutions Architect Expert | 2022/08/20 | 2026/08/20 | 764 | ++ |
@@ -54,7 +54,7 @@
 | DP-500 | Azure Enterprise Data Analyst Associate | 2023/09/22 | 2025/09/22 | 835 | +++ |
 | DP-100 | Azure Data Scientist Associate | 2023/11/07 | 2026/11/07 | 832 | +++ |
 | DP-300 | Azure Database Administrator Associate | 2023/12/13 | 2026/12/13 | 729 | +++ |
-| AZ-700 | Azure Network Engineer Associate | 2024/12/22 | 2025/12/22 | 728 | +++++ |
+| AZ-700 | Azure Network Engineer Associate | 2024/12/22 | 2026/12/22 | 728 | +++++ |
 
 # 3. Google Cloud
 | Name of Exam | Exam Date | Expired date | Score | Difficulty * |
