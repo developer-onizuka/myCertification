@@ -37,7 +37,7 @@
 | --- | --- | --- | --- | --- | --- |
 | AZ-900 | Azure Fundamentals | 2020/07/07 | - | 940 | + |
 | AZ-104 | Azure Administrator Associate | 2022/03/11 | 2027/03/11 | 807 | +++ |
-| AZ-204 | Azure Developer Associate | 2022/05/13 | 2026/05/13 | 834 | ++++ |
+| AZ-204 | Azure Developer Associate | 2022/05/13 | 2027/05/13 | 834 | ++++ |
 | AZ-400 | DevOps Engineer Expert | 2022/07/29 | 2026/07/29 | 700 | +++++ |
 | AZ-305 | Azure Solutions Architect Expert | 2022/08/20 | 2026/08/20 | 764 | ++ |
 | AZ-500 | Azure Security Engineer Associate | 2022/11/04 | 2026/11/04 | 837 | +++ |
